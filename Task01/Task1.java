@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ATM {
+public class Task1 {
     private static final double BALANCE = 5000.00;
 
     static void withdraw(double amount) {
