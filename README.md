@@ -1,6 +1,6 @@
 # CSA09 – Programming in Java | Assignment 3 (CO3)
 
-**Student:** Rishi Nathan  
+**Student:** L Rishinathan  
 **Register Number:** 1911260190  
 **Java Version:** Java 17 or later
 
